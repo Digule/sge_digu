@@ -4,7 +4,7 @@
 1. [Sección 1](#sección-1)
 2. [Sección 2](#sección-2)
 3. [Sección 3](#sección-3)
-4. [Sección 4](#sección-4)
+4. [Sección 4](#sección-4) 
 5. [Sección 5](#sección-5)
 
 ---
